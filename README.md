@@ -8,10 +8,12 @@ In a PySpark application, DataFrames (pyspark.sql.DataFrame) are specified for p
 
 ## Installation 
 
+1.
 ```bash
-git clone ...
+git clone git@github.com:seregatipich/spark-analysis-assignment.git
 ```
 
+2.
 Windows:
 ```bash
 python -m venv venv
